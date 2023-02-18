@@ -16,8 +16,9 @@
 
 :white_check_mark: подробная инструкция по сборке агрегата / detailed instructions for assembling the unit
 
-### Видео-демострация работы двигателя доступна здесь / Video available here [link](https://imgur.com/1iIYWnE)
+### Видео-демострация работы двигателя доступна здесь / Video demonstration:
 
+https://user-images.githubusercontent.com/114253920/219883985-04ecfcb7-5d5b-41b1-b43f-c0dca7d3a889.mp4
 
 <h1 align="center"> Инструкция по сборке / Assembly instructions </h1>
 
