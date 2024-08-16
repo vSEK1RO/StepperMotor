@@ -8,14 +8,6 @@
 
 >This project is a firmware for a 12-phase __stepper__ electric motor with the ability to change operating modes.
 
-#### На данный момент реализовано / Currently implemented
-
-:white_check_mark: разводка цепи электродвигателя / motor circuit wiring
-
-:white_check_mark: прошивка для драйвера шагового двигателя / stepper motor driver firmware
-
-:white_check_mark: подробная инструкция по сборке агрегата / detailed instructions for assembling the unit
-
 ### Видео-демострация работы двигателя доступна здесь / Video demonstration:
 
 https://user-images.githubusercontent.com/114253920/219883985-04ecfcb7-5d5b-41b1-b43f-c0dca7d3a889.mp4
